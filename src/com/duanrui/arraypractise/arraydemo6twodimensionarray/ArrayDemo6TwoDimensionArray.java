@@ -1,6 +1,6 @@
-package com.duanrui.arraypractise.arraydemo5twodimensionarray;
+package com.duanrui.arraypractise.arraydemo6twodimensionarray;
 
-public class ArrayDemo5TwoDimensionArray {
+public class ArrayDemo6TwoDimensionArray {
     //创建一个二维数组
     public int[][] createDimensionArray() {
         int[][] array = new int[5][5];

@@ -1,8 +1,5 @@
 package com.duanrui.arraypractise.arraydemo5arrays;
 
-import com.duanrui.arraypractise.arraydemo5twodimensionarray.ArrayDemo5TwoDimensionArray;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 public class ArrayDemo5ArraysTest {
     public static void main(String[] args) {
